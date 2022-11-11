@@ -1,1 +1,5 @@
-# A-PWA-Text-Editor-
+# A-PWA-Text-Editor
+
+# MIT
+
+## MIT License 
