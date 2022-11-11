@@ -58,7 +58,7 @@ Please run the following command to install the required dependencies
 
 
 # Deployed Application
-Click the <a href="">📝</a> to launch the application 
+Click the <a href="https://glacial-journey-83639.herokuapp.com/">📝</a> to launch the application 
 
 
 # Questions 
